@@ -6,6 +6,12 @@ Big data requires service that can orchestrate and operationalize processes to r
 
 For more information, review the article ["Introduction to Azure Data Factory"](https://docs.microsoft.com/de-de/azure/data-factory/introduction) from Microsoft.
 
-Watch this video to get an overview about Azure Data Factory:
-
+*Watch this video to get an overview about Azure Data Factory:*
 [![Azure Data Factory Video](https://img.youtube.com/vi/XnePgjGT8yw/0.jpg)](https://www.youtube.com/watch?v=XnePgjGT8yw)
+
+
+## Build data integration pipelines
+
+Quickly build data integration pipelines using templates in Azure Data Factory:
+
+[![Azure Data Factory Video](https://img.youtube.com/vi/X4daOsPDux8/0.jpg)](https://www.youtube.com/watch?v=X4daOsPDux8)
