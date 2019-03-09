@@ -16,3 +16,5 @@ For more information, review the article ["Introduction to Azure Data Factory"](
 Quickly build data integration pipelines using templates in Azure Data Factory:
 
 [![Azure Data Factory Video](https://img.youtube.com/vi/X4daOsPDux8/0.jpg)](https://www.youtube.com/watch?v=X4daOsPDux8)
+
+Find more information in the [Microsoft Azure Data Factory GitHub repository](https://github.com/Azure/Azure-DataFactory) 
